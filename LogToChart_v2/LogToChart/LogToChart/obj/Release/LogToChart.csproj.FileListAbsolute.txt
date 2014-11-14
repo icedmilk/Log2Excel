@@ -1,0 +1,10 @@
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\bin\Release\LogToChart.exe.config
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.csproj.ResolveComReference.cache
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\bin\Release\LogToChart.exe
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\bin\Release\LogToChart.pdb
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.csprojResolveAssemblyReference.cache
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.Form1.resources
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.Properties.Resources.resources
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.csproj.GenerateResource.Cache
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.exe
+C:\Users\clu2\documents\visual studio 2013\Projects\LogToChart\LogToChart\obj\Release\LogToChart.pdb
